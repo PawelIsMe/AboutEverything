@@ -1,3 +1,7 @@
+# Instruction
+pip install flask
+pip install socketio
+
 # Figma project
 https://www.figma.com/file/GOBZrowwR1UsK1V161xQb9/AboutTravels?type=design&node-id=0%3A1&mode=design&t=oBxjcCwA4k3Zxr96-1
 
